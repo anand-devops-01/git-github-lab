@@ -1,5 +1,36 @@
 # 🚀 Git & GitHub Lab
 
+# 🚀 Git & GitHub Lab
+
+![GitHub Repo Size](https://img.shields.io/github/repo-size/anand-devops-01/git-github-lab)
+![GitHub Stars](https://img.shields.io/github/stars/anand-devops-01/git-github-lab?style=social)
+![GitHub Forks](https://img.shields.io/github/forks/anand-devops-01/git-github-lab?style=social)
+![GitHub Last Commit](https://img.shields.io/github/last-commit/anand-devops-01/git-github-lab)
+![GitHub License](https://img.shields.io/github/license/anand-devops-01/git-github-lab)
+
+A complete beginner-to-advanced Git and GitHub learning repository.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 A complete beginner-to-advanced Git and GitHub learning repository with commands, examples, workflows, and interview questions.
 
 ---
